@@ -19,5 +19,5 @@ class warehouse {
     get getWarehouse() {
         return this.warehouseItems;
     }
-}
+}     
 //# sourceMappingURL=stockitems.js.map
